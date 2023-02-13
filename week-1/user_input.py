@@ -1,0 +1,6 @@
+f_name=input("What is your name?")
+s_name=input("What is your secind name?")
+s_num=input("enter the first number")
+f_num=input("enter the second number")
+sum_num=(int(s_num)+int(f_num))
+print(sum_num)
