@@ -1,3 +1,4 @@
+#converting lowercase to uppercase
 message="Hello"
 name="anita"
 greeting=(message+" "+name)
