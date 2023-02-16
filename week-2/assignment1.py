@@ -16,11 +16,11 @@ for e in range(51):
      total+=e
      print(total) 
 #for both even and odd numbers
-for n in range(101):
-   if n%2==0:
-      print(n,"even number")
+for a in range(101):
+   if a%2==0:
+      print(a,"even numbers")
    else:
-      print(n,"odd numbers")
+      print(a,"odd numbers")
 
 
 
