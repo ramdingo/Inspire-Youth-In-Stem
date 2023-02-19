@@ -22,3 +22,4 @@ for vegetable in vegetables:
 for shopping in shoppings:
     print(shopping)
 print("my names is " + names[2]+ " and my faviourite fruit is " + fruits[5])
+print("my names is ",names[2]," and my faviourite fruit is",fruits[5])

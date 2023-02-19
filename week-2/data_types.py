@@ -14,6 +14,8 @@ r=x*y #product
 m=x%y #reminder
 square_x=x**2 #indices
 cude_x=x**3 #indices
+64<<2 #left shift/represnts multiplication
+64>>2 #right shift/represents multiply
 
 number=13
 print("Cube of the number;",number**3)
