@@ -19,3 +19,5 @@ cude_x=x**3 #indices
 
 number=13
 print("Cube of the number;",number**3)
+
+#there are keywords that are reserved
