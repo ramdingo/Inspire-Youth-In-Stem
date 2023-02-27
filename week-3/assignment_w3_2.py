@@ -6,7 +6,6 @@
 
 #assignment
 #!/usr/bin/env python3
-#break in while loop
 #Name:Ramsey Kobia
 #Email:ramseykobia@gmail.com
 #date: 21th Feb 2023
